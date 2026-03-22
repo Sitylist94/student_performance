@@ -102,4 +102,4 @@ student_performance/
 
 ## 👤 Auteur
 
-**Adam Bara** — [Sitylist94](https://github.com/Sitylist94)
+[Sitylist94](https://github.com/Sitylist94)
