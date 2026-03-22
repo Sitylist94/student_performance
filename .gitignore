@@ -5,3 +5,4 @@ figure/
 model/
 *.pkl
 *.log
+data/student_data.csv
